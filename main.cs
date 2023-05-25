@@ -8,6 +8,7 @@ namespace HedgehogBot
 
         public async Task MainAsync()
         {
+
         }
     }
 
